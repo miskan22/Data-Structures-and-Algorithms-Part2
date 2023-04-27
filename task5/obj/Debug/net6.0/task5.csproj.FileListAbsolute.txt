@@ -1,0 +1,15 @@
+C:\Users\altjs\OneDrive\Desktop\Assignment\task5\bin\Debug\net6.0\task5.exe
+C:\Users\altjs\OneDrive\Desktop\Assignment\task5\bin\Debug\net6.0\task5.deps.json
+C:\Users\altjs\OneDrive\Desktop\Assignment\task5\bin\Debug\net6.0\task5.runtimeconfig.json
+C:\Users\altjs\OneDrive\Desktop\Assignment\task5\bin\Debug\net6.0\task5.dll
+C:\Users\altjs\OneDrive\Desktop\Assignment\task5\bin\Debug\net6.0\task5.pdb
+C:\Users\altjs\OneDrive\Desktop\Assignment\task5\obj\Debug\net6.0\task5.csproj.AssemblyReference.cache
+C:\Users\altjs\OneDrive\Desktop\Assignment\task5\obj\Debug\net6.0\task5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\altjs\OneDrive\Desktop\Assignment\task5\obj\Debug\net6.0\task5.AssemblyInfoInputs.cache
+C:\Users\altjs\OneDrive\Desktop\Assignment\task5\obj\Debug\net6.0\task5.AssemblyInfo.cs
+C:\Users\altjs\OneDrive\Desktop\Assignment\task5\obj\Debug\net6.0\task5.csproj.CoreCompileInputs.cache
+C:\Users\altjs\OneDrive\Desktop\Assignment\task5\obj\Debug\net6.0\task5.dll
+C:\Users\altjs\OneDrive\Desktop\Assignment\task5\obj\Debug\net6.0\refint\task5.dll
+C:\Users\altjs\OneDrive\Desktop\Assignment\task5\obj\Debug\net6.0\task5.pdb
+C:\Users\altjs\OneDrive\Desktop\Assignment\task5\obj\Debug\net6.0\task5.genruntimeconfig.cache
+C:\Users\altjs\OneDrive\Desktop\Assignment\task5\obj\Debug\net6.0\ref\task5.dll
